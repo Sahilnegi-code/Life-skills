@@ -65,7 +65,7 @@ When: - I am full of energy.
 - A one-minute exercise can improve brain health.
 
 ### Question 7
-#### What are some steps you can take to exercise more?
+    #### What are some steps you can take to exercise more?
 **Answer:-**
 - Aim to exercise for at least 30 minutes per day.
 - Incorporate some cardiovascular activities into my schedule.
